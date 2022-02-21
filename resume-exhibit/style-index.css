@@ -1,7 +1,15 @@
-.indent-1{
-    float: left;
-}
 .indent-1 section{
-    width: 50%;
-    float: left;
+    position: absolute;
+
 }
+.leftbreak{
+    background-color: brown;
+    width: 50%;
+}
+.rightbreak{
+    background-color: aquamarine;
+    width: 50%;
+    margin-left: 50%;
+
+}
+
